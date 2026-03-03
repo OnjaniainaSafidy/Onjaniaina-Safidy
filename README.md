@@ -108,5 +108,5 @@ Je suis particulièrement motivé par les problématiques techniques complexes i
 ##  Contact
 
 - Email : onjaniainasafidy21@gmail.com  
-- LinkedIn : https://linkedin.com/in/Onjaniaina Safidy  
+- LinkedIn : https://linkedin.com/in/OnjaniainaSafidy  
 - GitHub : https://github.com/onjaniainasafidy  

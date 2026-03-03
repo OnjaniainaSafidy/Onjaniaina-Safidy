@@ -6,7 +6,7 @@ Spécialisé en stéganographie, traitement multimédia et manipulation binaire.
 
 ---
 
-## 👨‍💻 Profil
+##  Profil
 
 Développeur Python passionné par la sécurisatioin d'information et l’ingénierie des données bas niveau.  
 Je conçois des outils permettant d’analyser, transformer et dissimuler l’information dans des supports multimédias (images et vidéos).
@@ -21,9 +21,9 @@ Je m’intéresse particulièrement à :
 
 ---
 
-## 🚀 Projets Principaux
+##  Projets Principaux
 
-### 🔐 StegaImage — Image Steganography Tool
+###  StegaImage — Image Steganography Tool
 
 Application Python permettant de cacher des données binaires dans des images haute résolution.  
 Implémentation d’un calcul automatique de capacité basé sur les dimensions et la structure du fichier image.
@@ -37,7 +37,7 @@ Implémentation d’un calcul automatique de capacité basé sur les dimensions 
 
 ---
 
-### 🎥 StegaVideo — Video Steganography Engine
+###  StegaVideo — Video Steganography Engine
 
 Système de dissimulation de fichiers dans des vidéos via l’exploitation des frames.  
 Gestion complète du flux : extraction des frames, encodage binaire, reconstruction du fichier original.
@@ -52,7 +52,7 @@ Gestion complète du flux : extraction des frames, encodage binaire, reconstruct
 
 ---
 
-### 📂 FileInspector — File Analysis Toolkit
+###  FileInspector — File Analysis Toolkit
 
 Outil d’analyse de fichiers permettant de :
 
@@ -64,7 +64,7 @@ Outil d’analyse de fichiers permettant de :
 
 ---
 
-### 🔄 BinaryTools — Binary Conversion Suite
+###  BinaryTools — Binary Conversion Suite
 
 Suite d’outils de conversion :
 
@@ -77,7 +77,7 @@ Suite d’outils de conversion :
 
 ---
 
-## 🧠 Compétences Techniques
+##  Compétences Techniques
 
 ### Langage principal
 - Python  
@@ -97,7 +97,7 @@ Suite d’outils de conversion :
 
 ---
 
-## 🎯 Objectif Professionnel
+##  Objectif Professionnel
 
 Évoluer vers des projets avancés en cybersécurité, forensic numérique, traitement multimédia intelligent et ingénierie logicielle orientée performance.
 
@@ -105,7 +105,7 @@ Je suis particulièrement motivé par les problématiques techniques complexes i
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - Email : onjaniainasafidy21@gmail.com  
 - LinkedIn : https://linkedin.com/in/Onjaniaina Safidy  

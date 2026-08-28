@@ -1,112 +1,91 @@
-# RANDRIANARIMANANA Onjaniaina Safidy
+#### RANDRIANARIMANANA Onjaniaina Safidy
 
-**Python Developer | Cybersecurity & Data Engineering Enthusiast**
+### Software Developer | Web Development
 
-Spécialisé en stéganographie, traitement multimédia et manipulation binaire.
+I am a software developer interested in web development, application development, and software engineering.
 
----
-
-##  Profil
-
-Développeur Python passionné par la sécurisatioin d'information et l’ingénierie des données bas niveau.  
-Je conçois des outils permettant d’analyser, transformer et dissimuler l’information dans des supports multimédias (images et vidéos).
-
-Je m’intéresse particulièrement à :
-
-- La manipulation de données binaires  
-- L’optimisation de capacité d’insertion  
-- L’analyse structurelle des fichiers  
-- L’automatisation de traitements multimédias  
-- Les techniques de dissimulation et de reconstruction de données  
+I enjoy building practical projects, learning new technologies, and improving my technical skills through real-world development.
 
 ---
 
-##  Projets Principaux
+## Skills
 
-###  StegaImage — Image Steganography Tool
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
 
-Application Python permettant de cacher des données binaires dans des images haute résolution.  
-Implémentation d’un calcul automatique de capacité basé sur les dimensions et la structure du fichier image.
+### Backend Development
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- REST API
 
-🔗 https://github.com/onjaniainasafidy/stegaimage  
+### Programming
+- Java
+- Python
 
-**Compétences mobilisées :**
-- Manipulation binaire  
-- Traitement d’images (Pillow / OpenCV)  
-- Optimisation mémoire  
-
----
-
-###  StegaVideo — Video Steganography Engine
-
-Système de dissimulation de fichiers dans des vidéos via l’exploitation des frames.  
-Gestion complète du flux : extraction des frames, encodage binaire, reconstruction du fichier original.
-
-🔗 https://github.com/onjaniainasafidy/stegavideo  
-
-**Compétences mobilisées :**
-- Traitement vidéo  
-- Gestion audio/vidéo  
-- Analyse de capacité  
-- Automatisation avec Python  
+### Tools
+- Git
+- GitHub
+- VS Code
+- Linux
 
 ---
 
-###  FileInspector — File Analysis Toolkit
+## Projects
 
-Outil d’analyse de fichiers permettant de :
+### TsenaZebu
 
-- Vérifier l’existence et l’intégrité  
-- Analyser taille et métadonnées  
-- Convertir en représentation binaire  
+A web marketplace project designed to allow users to buy and sell products through an online platform.
 
-🔗 https://github.com/onjaniainasafidy/fileinspector  
+**Technologies:** React, Next.js, Node.js, MongoDB
 
 ---
 
-###  BinaryTools — Binary Conversion Suite
+### Java Game
 
-Suite d’outils de conversion :
+A game development project created with Java as part of my programming practice and application development.
 
-- Texte ↔ Binaire  
-- Image ↔ Binaire  
-- Vidéo ↔ Binaire  
-- Reconstruction de fichiers  
-
-🔗 https://github.com/onjaniainasafidy/binarytools  
+**Technology:** Java
 
 ---
 
-##  Compétences Techniques
+### Video Steganography in an Image
 
-### Langage principal
-- Python  
+A software project developed with Python for hiding video data inside an image using digital steganography techniques.
 
-### Domaines techniques
-- Stéganographie  
-- Cybersécurité (fondamentaux)  
-- Manipulation binaire  
-- Traitement d’images et vidéos  
-- Analyse de fichiers  
+The project focuses on data hiding, image processing, and video processing.
 
-### Outils & bibliothèques
-- OpenCV  
-- Pillow  
-- NumPy  
-- FFmpeg  
+**Technology:** Python
 
 ---
 
-##  Objectif Professionnel
+## Currently Learning
 
-Évoluer vers des projets avancés en cybersécurité, forensic numérique, traitement multimédia intelligent et ingénierie logicielle orientée performance.
-
-Je suis particulièrement motivé par les problématiques techniques complexes impliquant la manipulation bas niveau des données.
+- Advanced web development
+- React and Next.js
+- Backend development with Node.js
+- Database management with MongoDB
+- Software engineering
+- Python application development
 
 ---
 
-##  Contact
+## About Me
 
-- Email : onjaniainasafidy21@gmail.com  
-- LinkedIn : https://linkedin.com/in/OnjaniainaSafidy  
-- GitHub : https://github.com/onjaniainasafidy  
+I am continuously developing my programming and software development skills through personal projects and practical learning.
+
+My goal is to build reliable, useful, and modern software applications while continuing to improve my technical knowledge.
+
+---
+
+## Contact
+
+Email: onjaniainasafidy21@gmail.com
+
+Location: Antsirabe, Madagascar
